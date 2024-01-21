@@ -1,1 +1,10 @@
+This csv file contains  all the data collected from different sources. sources are as follows:
+https://www.census2011.co.in/literacy.php
+https://data.gov.in/resource/stateuts-wise-literacy-rates-census-2001-and-2011
+https://statisticstimes.com/geography/india/indian-states-area.php
+https://data.gov.in/catalog/primary-census-abstract-census-2001-india-and-states
+https://censusindia.gov.in/census.website/data/population-finder
+https://en.wikipedia.org/wiki/List_of_states_and_union_territories_of_India_by_population
 
+The Crime Data_final csv file is the final version of the collected data and the required data for phase-2 analysis from the given files.
+Some data are predicted not accurate.
